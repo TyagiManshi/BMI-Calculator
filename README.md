@@ -1,0 +1,2 @@
+# BMI-Calculator
+ Developed a responsive and user-friendly Body Mass Index (BMI) calculator using HTML, CSS, and JavaScript. The application allows users to input their height and weight to calculate their BMI and determine their weight category (Underweight, Normal weight or Overweight).  Technologies Used: HTML: Structured the web page and input forms. CSS: Styled the application for a clean and modern look. JavaScript: Implemented the logic for BMI calculation and dynamic updates of the results.
